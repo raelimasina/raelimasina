@@ -1,7 +1,6 @@
 <div id="header" align="center">
- 
- ![Raeli profile banner](https://user-images.githubusercontent.com/26192879/192191826-27eeef23-a5ac-4a44-9d54-dca8e1df4c20.gif)
-<div id="badges">
+
+![Raeli profile banner](https://user-images.githubusercontent.com/26192879/192193081-b6dc81b0-4b51-482c-b0b8-592698741481.gif)
   <a href="https://www.linkedin.com/in/raelimasina">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
